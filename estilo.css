@@ -1,1 +1,27 @@
-<h1>
+*{
+    background-image: url("img_lights.jpg");
+    color: white;
+}
+h1{
+    font-size: 30px;
+    text-align: center;
+}
+table{
+    text-align: center;
+    border: solid 2px;
+    margin: auto;
+}
+tr{
+    text-align: center;
+    border: solid 2px;
+    margin: auto;
+}
+td{
+    text-align: center;
+    border: solid 2px;
+    margin: auto;
+}
+img{
+    margin-left: 23.5%;
+    margin-top: 2%;
+}
